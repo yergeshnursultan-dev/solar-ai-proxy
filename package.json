@@ -1,0 +1,7 @@
+{
+  "name": "solar-ai-proxy",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  }
+}
